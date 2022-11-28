@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.1365b4cb.css",
+    "main.js": "/static/js/main.9be760e5.js",
+    "static/media/mobile4.jpg": "/static/media/mobile4.dcd9c20103d7de8e4b57.jpg",
+    "static/media/pexels-drew-williams-2453658.jpg": "/static/media/pexels-drew-williams-2453658.a93815692fa8b2982c60.jpg",
+    "static/media/laptop.jpg": "/static/media/laptop.db90017cee83ec4fb0bb.jpg",
+    "static/media/watch2.jpg": "/static/media/watch2.e6eda55c4788b549ef59.jpg",
+    "index.html": "/index.html",
+    "main.1365b4cb.css.map": "/static/css/main.1365b4cb.css.map",
+    "main.9be760e5.js.map": "/static/js/main.9be760e5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1365b4cb.css",
+    "static/js/main.9be760e5.js"
+  ]
+}
